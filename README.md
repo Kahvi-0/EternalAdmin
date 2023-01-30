@@ -1,4 +1,4 @@
-Exploit tweaked from https://www.exploit-db.com/exploits/42315
+Eternal blue exploit tweaked from https://www.exploit-db.com/exploits/42315
 
 1. Enumerate pipes
 ```
