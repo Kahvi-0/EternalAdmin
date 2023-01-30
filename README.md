@@ -10,7 +10,7 @@ auxiliary/scanner/smb/pipe_auditor
 
 3. Run to a add new local admin account
 ```
-python2.7 ./EternalUser.py [target] [pipe]
+python2.7 ./EternalAdmin.py [target] [pipe]
 ```
 
 4. Remove created local admin once finished
